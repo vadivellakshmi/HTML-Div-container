@@ -1,0 +1,29 @@
+.div1{
+
+    background-color: aqua;
+
+    margin: 20px;
+    padding: 40px;
+    align-items: center;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.btn{
+
+    padding: 10px;
+}
+
+.btn:hover, .btn:active{
+
+    background-color: brown;
+    color: whitesmoke;
+    cursor: pointer;
+}
+
+.div-shadow{
+
+    padding: 10px;
+    background-color: blue;
+    margin: 5px;
+}
